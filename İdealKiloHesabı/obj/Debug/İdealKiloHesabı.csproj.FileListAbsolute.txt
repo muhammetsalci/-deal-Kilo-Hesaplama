@@ -1,0 +1,30 @@
+C:\Users\CASPER\Desktop\C# Ödev\İdealKiloHesabı\İdealKiloHesabı\bin\Debug\İdealKiloHesabı.exe.config
+C:\Users\CASPER\Desktop\C# Ödev\İdealKiloHesabı\İdealKiloHesabı\bin\Debug\İdealKiloHesabı.exe
+C:\Users\CASPER\Desktop\C# Ödev\İdealKiloHesabı\İdealKiloHesabı\bin\Debug\İdealKiloHesabı.pdb
+C:\Users\CASPER\Desktop\C# Ödev\İdealKiloHesabı\İdealKiloHesabı\obj\Debug\İdealKiloHesabı.csprojAssemblyReference.cache
+C:\Users\CASPER\Desktop\C# Ödev\İdealKiloHesabı\İdealKiloHesabı\obj\Debug\İdealKiloHesabı.Form1.resources
+C:\Users\CASPER\Desktop\C# Ödev\İdealKiloHesabı\İdealKiloHesabı\obj\Debug\İdealKiloHesabı.Properties.Resources.resources
+C:\Users\CASPER\Desktop\C# Ödev\İdealKiloHesabı\İdealKiloHesabı\obj\Debug\İdealKiloHesabı.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\C# Ödev\İdealKiloHesabı\İdealKiloHesabı\obj\Debug\İdealKiloHesabı.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\C# Ödev\İdealKiloHesabı\İdealKiloHesabı\obj\Debug\İdealKiloHesabı.exe
+C:\Users\CASPER\Desktop\C# Ödev\İdealKiloHesabı\İdealKiloHesabı\obj\Debug\İdealKiloHesabı.pdb
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\3. Soru (İdealKiloHesabı)\İdealKiloHesabı\bin\Debug\İdealKiloHesabı.exe.config
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\3. Soru (İdealKiloHesabı)\İdealKiloHesabı\bin\Debug\İdealKiloHesabı.exe
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\3. Soru (İdealKiloHesabı)\İdealKiloHesabı\bin\Debug\İdealKiloHesabı.pdb
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\3. Soru (İdealKiloHesabı)\İdealKiloHesabı\obj\Debug\İdealKiloHesabı.csprojAssemblyReference.cache
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\3. Soru (İdealKiloHesabı)\İdealKiloHesabı\obj\Debug\İdealKiloHesabı.Form1.resources
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\3. Soru (İdealKiloHesabı)\İdealKiloHesabı\obj\Debug\İdealKiloHesabı.Properties.Resources.resources
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\3. Soru (İdealKiloHesabı)\İdealKiloHesabı\obj\Debug\İdealKiloHesabı.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\3. Soru (İdealKiloHesabı)\İdealKiloHesabı\obj\Debug\İdealKiloHesabı.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\3. Soru (İdealKiloHesabı)\İdealKiloHesabı\obj\Debug\İdealKiloHesabı.exe
+C:\Users\CASPER\Desktop\C# Ödev\Proje 1\3. Soru (İdealKiloHesabı)\İdealKiloHesabı\obj\Debug\İdealKiloHesabı.pdb
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\3. Soru (İdealKiloHesabı)\İdealKiloHesabı\bin\Debug\İdealKiloHesabı.exe.config
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\3. Soru (İdealKiloHesabı)\İdealKiloHesabı\bin\Debug\İdealKiloHesabı.exe
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\3. Soru (İdealKiloHesabı)\İdealKiloHesabı\bin\Debug\İdealKiloHesabı.pdb
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\3. Soru (İdealKiloHesabı)\İdealKiloHesabı\obj\Debug\İdealKiloHesabı.csprojAssemblyReference.cache
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\3. Soru (İdealKiloHesabı)\İdealKiloHesabı\obj\Debug\İdealKiloHesabı.Form1.resources
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\3. Soru (İdealKiloHesabı)\İdealKiloHesabı\obj\Debug\İdealKiloHesabı.Properties.Resources.resources
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\3. Soru (İdealKiloHesabı)\İdealKiloHesabı\obj\Debug\İdealKiloHesabı.csproj.GenerateResource.cache
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\3. Soru (İdealKiloHesabı)\İdealKiloHesabı\obj\Debug\İdealKiloHesabı.csproj.CoreCompileInputs.cache
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\3. Soru (İdealKiloHesabı)\İdealKiloHesabı\obj\Debug\İdealKiloHesabı.exe
+D:\HDD\Ders notları\Programlama\C#\C# Ödev\Proje 1 - Karışık\3. Soru (İdealKiloHesabı)\İdealKiloHesabı\obj\Debug\İdealKiloHesabı.pdb
