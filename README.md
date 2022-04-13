@@ -1,0 +1,1 @@
+# Ideal-Kilo-Hesaplama
